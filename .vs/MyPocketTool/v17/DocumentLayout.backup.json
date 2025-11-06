@@ -1,13 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\akmuc\\source\\MyPocketTool\\MyPocketTool\\",
+  "WorkspaceRootPath": "C:\\Users\\akmuc\\source\\MyPocketTool\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD2E2DD8-0FE2-48C7-B8DB-9524E1694A0B}|MyPocketTool.csproj|c:\\users\\akmuc\\source\\mypockettool\\mypockettool\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{AD2E2DD8-0FE2-48C7-B8DB-9524E1694A0B}|MyPocketTool.csproj|c:\\users\\akmuc\\source\\mypockettool\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{AD2E2DD8-0FE2-48C7-B8DB-9524E1694A0B}|MyPocketTool.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD2E2DD8-0FE2-48C7-B8DB-9524E1694A0B}|MyPocketTool.csproj|c:\\users\\akmuc\\source\\mypockettool\\mypockettool\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD2E2DD8-0FE2-48C7-B8DB-9524E1694A0B}|MyPocketTool.csproj|c:\\users\\akmuc\\source\\mypockettool\\modultreeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD2E2DD8-0FE2-48C7-B8DB-9524E1694A0B}|MyPocketTool.csproj|solutionrelative:modultreeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2E2DD8-0FE2-48C7-B8DB-9524E1694A0B}|MyPocketTool.csproj|c:\\users\\akmuc\\source\\mypockettool\\themeviewer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD2E2DD8-0FE2-48C7-B8DB-9524E1694A0B}|MyPocketTool.csproj|solutionrelative:themeviewer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2E2DD8-0FE2-48C7-B8DB-9524E1694A0B}|MyPocketTool.csproj|c:\\users\\akmuc\\source\\mypockettool\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD2E2DD8-0FE2-48C7-B8DB-9524E1694A0B}|MyPocketTool.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,25 +32,52 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\akmuc\\source\\MyPocketTool\\MyPocketTool\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\akmuc\\source\\MyPocketTool\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\akmuc\\source\\MyPocketTool\\MyPocketTool\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\akmuc\\source\\MyPocketTool\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-11-06T19:53:36.541Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\akmuc\\source\\MyPocketTool\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\akmuc\\source\\MyPocketTool\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T19:53:36.128Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThemeViewer.xaml",
+              "DocumentMoniker": "C:\\Users\\akmuc\\source\\MyPocketTool\\ThemeViewer.xaml",
+              "RelativeDocumentMoniker": "ThemeViewer.xaml",
+              "ToolTip": "C:\\Users\\akmuc\\source\\MyPocketTool\\ThemeViewer.xaml",
+              "RelativeToolTip": "ThemeViewer.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-06T20:45:33.88Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\akmuc\\source\\MyPocketTool\\MyPocketTool\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\akmuc\\source\\MyPocketTool\\MyPocketTool\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T19:53:36.128Z",
+              "Title": "ModulTreeView.xaml",
+              "DocumentMoniker": "C:\\Users\\akmuc\\source\\MyPocketTool\\ModulTreeView.xaml",
+              "RelativeDocumentMoniker": "ModulTreeView.xaml",
+              "ToolTip": "C:\\Users\\akmuc\\source\\MyPocketTool\\ModulTreeView.xaml",
+              "RelativeToolTip": "ModulTreeView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-06T20:53:02.594Z",
               "EditorCaption": ""
             }
           ]

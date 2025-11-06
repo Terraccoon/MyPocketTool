@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\akmuc\\source\\MyPocketTool\\MyPocketTool\\MyPocketTool.csproj": {}
+    "C:\\Users\\akmuc\\source\\MyPocketTool\\MyPocketTool.csproj": {}
   },
   "projects": {
-    "C:\\Users\\akmuc\\source\\MyPocketTool\\MyPocketTool\\MyPocketTool.csproj": {
+    "C:\\Users\\akmuc\\source\\MyPocketTool\\MyPocketTool.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\akmuc\\source\\MyPocketTool\\MyPocketTool\\MyPocketTool.csproj",
+        "projectUniqueName": "C:\\Users\\akmuc\\source\\MyPocketTool\\MyPocketTool.csproj",
         "projectName": "MyPocketTool",
-        "projectPath": "C:\\Users\\akmuc\\source\\MyPocketTool\\MyPocketTool\\MyPocketTool.csproj",
+        "projectPath": "C:\\Users\\akmuc\\source\\MyPocketTool\\MyPocketTool.csproj",
         "packagesPath": "C:\\Users\\akmuc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\akmuc\\source\\MyPocketTool\\MyPocketTool\\obj\\",
+        "outputPath": "C:\\Users\\akmuc\\source\\MyPocketTool\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

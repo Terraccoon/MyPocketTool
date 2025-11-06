@@ -1,0 +1,50 @@
+﻿<UserControl x:Class="MyPocketTool.ThemeViewer"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MyPocketTool"
+             mc:Ignorable="d" 
+             d:DesignHeight="140" d:DesignWidth="120">
+    <StackPanel>
+        <Grid>
+            <Grid.ColumnDefinitions>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="80"/>
+                <RowDefinition Height="30"/>
+            </Grid.RowDefinitions>
+            <Label
+            x:Name="lblThemeName"
+            Grid.Row="0"
+            HorizontalAlignment="Center"
+            Content="Theme:"
+            FontSize="11"
+            FontStyle="Italic"
+            FontFamily="Comic Sans MS"/>
+            <Ellipse 
+            Height="80" 
+            Width="80"
+            Grid.Row="1" 
+            Stroke="Black" 
+            StrokeThickness="2"
+            HorizontalAlignment="Center"/>
+            <Label
+            x:Name="lblThemeLvL"
+            Grid.Row="2"
+            HorizontalAlignment="Center"
+            Content="LvL:"
+            FontSize="11"
+            FontStyle="Italic"
+            FontFamily="Comic Sans MS"/>
+            <Border
+                x:Name="bThemeBorder"
+                Grid.Row="0"
+                Grid.RowSpan="3"
+                BorderThickness="2"
+                BorderBrush="Black"
+                CornerRadius="0,10,10,0"/>
+        </Grid>
+    </StackPanel>
+</UserControl>

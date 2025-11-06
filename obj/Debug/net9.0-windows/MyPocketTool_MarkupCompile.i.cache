@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\akmuc\source\MyPocketTool\MyPocketTool\obj\Debug\net9.0-windows\
+C:\Users\akmuc\source\MyPocketTool\obj\Debug\net9.0-windows\
 MyPocketTool
 none
 false
 TRACE;DEBUG;NET;NET9_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-C:\Users\akmuc\source\MyPocketTool\MyPocketTool\App.xaml
-11407045341
+C:\Users\akmuc\source\MyPocketTool\App.xaml
+3327555338
 
-6-1071954645
+81719523543
 200-1531957912
-MainWindow.xaml;
+MainWindow.xaml;ModulTreeView.xaml;ThemeViewer.xaml;
 
 False
 
